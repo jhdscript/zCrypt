@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=6EA09AB64A94A4489DCE3B3661EFFA7E/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=6EA09AB64A94A4489DCE3B3661EFFA7E/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=6EA09AB64A94A4489DCE3B3661EFFA7E/Name/@EntryValue">zCryptCore</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=6EA09AB64A94A4489DCE3B3661EFFA7E/ProjectGuid/@EntryValue">BC323475B9FEEF4B8FC8BACABBF2B791</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=6EA09AB64A94A4489DCE3B3661EFFA7E/DefaultAction/@EntryValue">run</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">6EA09AB64A94A4489DCE3B3661EFFA7E</s:String></wpf:ResourceDictionary>
